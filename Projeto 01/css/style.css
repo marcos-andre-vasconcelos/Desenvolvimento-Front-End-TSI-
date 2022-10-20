@@ -43,7 +43,7 @@ img {
   align-items: center;
   box-sizing: border-box;
   padding: 20px;
-  max-width: 1200px;
+  max-width: auto;
   margin-left: auto;
   margin-right: auto;
 }
@@ -91,9 +91,9 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
   box-sizing: border-box;
-  max-width: 1200px;
-  padding-left: 20px;
-  padding-right: 20px;
+  max-width: auto;
+  padding-left: 25px;
+  padding-right: 25px;
   margin-left: auto;
   margin-right: auto;
 }
